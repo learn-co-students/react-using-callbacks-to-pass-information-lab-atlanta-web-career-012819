@@ -17,3 +17,5 @@ export default class ColorSelector extends Component {
   }
   
 }
+
+// update makeColorSwatches to provide the <div>s it is rendering with some way to fire off that method we wrote for Matrix (hint: consider using an event listener and controlling the argument when an event handler is fired)
